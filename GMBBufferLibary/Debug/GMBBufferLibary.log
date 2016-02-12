@@ -1,0 +1,31 @@
+﻿Build started 2/12/2016 12:05:40 AM.
+     1>Project "C:\Users\Graham\Programming\GMB\AudioClasses\GMBBufferLibary\GMBBufferLibary\GMBBufferLibary.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GMBBufferObj.cpp
+         GMBBufferObj.cpp
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(173): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(242): warning C4244: '=' : conversion from 'double' to 'REFERENCE_TIME', possible loss of data
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(310): warning C4244: '=' : conversion from 'double' to 'REFERENCE_TIME', possible loss of data
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(663): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(827): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(927): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(1147): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(1160): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(1172): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(1178): warning C4552: '+' : operator has no effect; expected operator with side-effect
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(1278): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(1289): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(1290): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(1291): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(1292): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\graham\programming\gmb\audioclasses\gmbbufferlibary\gmbbufferlibary\gmbbufferobj.cpp(1293): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Graham\Programming\GMB\AudioClasses\GMBBufferLibary\Debug\GMBBufferLibrary.lib" /NOLOGO Debug\GMBBufferLibrary.res
+         Debug\GMBBufferObj.obj
+     1>LINK : warning LNK4068: /MACHINE not specified; defaulting to X86
+         GMBBufferLibary.vcxproj -> C:\Users\Graham\Programming\GMB\AudioClasses\GMBBufferLibary\Debug\GMBBufferLibrary.lib
+     1>Done Building Project "C:\Users\Graham\Programming\GMB\AudioClasses\GMBBufferLibary\GMBBufferLibary\GMBBufferLibary.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.17
